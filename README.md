@@ -32,7 +32,7 @@ agrichain-cameroon/
 │   ├── scripts/              # Scripts de déploiement
 ├── .github/
 │   ├── workflows/
-│   │   ├── ci-cd.yml         # Pipeline CI/CD
+│   │   ├── pipeline.yml         # Pipeline CI/CD
 ├── README.md
 └── .gitignore
 ```
